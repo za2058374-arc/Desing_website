@@ -1,0 +1,218 @@
+ header {
+     /* background-color: black; */
+     height: 100%;
+     width: 100%;
+     background-image: url(https://bcassetcdn.com/assets/images/designcom/hero-banner-background/bg-pattern-wave.en-us.webp);
+
+ }
+
+ .head {
+     background-image: url(https://bcassetcdn.com/assets/images/designcom/hero-banner-background/bg-pattern-wave.en-us.webp);
+
+
+ }
+
+ .wellnes:hover {
+     color: rgb(2, 2, 156) !important;
+     text-decoration: underline;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media screen and (max-width:990px) {
+     header {
+         max-width: 100% !important;
+     }
+
+     #logo {
+         position: relative;
+         right: 113px;
+     }
+
+     .com {
+         position: relative;
+         right: 40px;
+     }
+
+     .webtext {
+         font-size: 50px !important;
+         width: 30px;
+         margin-left: 80px;
+         position: relative;
+         bottom: 70px;
+     }
+
+     .create {
+         text-align: center;
+         font-size: 26px !important;
+     }
+
+     .imges {
+         width: 340px !important;
+     }
+
+     .templates {
+         font-size: 18px !important;
+         margin-top: 20px;
+     }
+
+     .make {
+         font-size: 28px !important;
+         max-width: 100%;
+     }
+
+     .whether {
+         font-size: 18px !important;
+         max-width: 100%;
+
+     }
+
+     .crafting {
+         max-width: 100%;
+         font-size: 26px !important;
+     }
+
+     .in {
+         max-width: 100%;
+         font-size: 17px !important;
+     }
+
+     .find div {
+         max-width: 100%;
+     }
+
+     .websiteimg {
+         position: relative;
+         right: 6vh;
+         top: 10px;
+     }
+
+     .customize {
+         font-size: 28px !important;
+     }
+
+     .once {
+         font-size: 16px !important;
+     }
+
+     .how {
+         margin-top: 20px;
+     }
+
+     .publish {
+         font-size: 28px !important;
+         margin-top: 25px;
+     }
+
+     .perfect {
+         font-size: 16px !important;
+     }
+
+     .website-maker-3 {
+         margin-top: 20px !important;
+     }
+
+     .not {
+         font-size: 28px !important;
+     }
+
+     .tell {
+         font-size: 28px !important;
+     }
+
+     .createthe {
+         font-size: 28px !important;
+     }
+
+     .getmore {
+         font-size: 28px !important;
+     }
+
+     .buttonwebsite {
+         position: relative;
+         right: 60vh;
+     }
+
+     .these {
+         position: relative;
+         right: 50vh;
+         font-size: 28px !important;
+         max-width: 370px;
+     }
+
+     #carouseltext {
+         position: relative;
+         right: 45vh;
+         font-size: 20px !important;
+         max-width: 280px;
+     }
+
+     .howtoi {
+         max-width: 100%;
+         font-size: 28px !important;
+     }
+
+     .theperfect {
+         max-width: 100%;
+         font-size: 18px !important;
+     }
+
+     .getstarttext {
+         font-size: 28px !important;
+     }
+
+     .industry {
+         font-size: 28px !important;
+     }
+
+     .comhas {
+         font-size: 18px !important;
+     }
+
+     .automotive1 {
+         font-size: 15px !important;
+         position: relative;
+         right: 10vh;
+         max-width: 10px !important;
+     }
+
+     .automotive2 {
+         font-size: 15px !important;
+         position: relative;
+         right: 4vh;
+         max-width: 10px !important;
+     }
+
+     .automotive3 {
+         font-size: 15px !important;
+         position: relative;
+         right: 2vh;
+         max-width: 10px !important;
+     }
+
+     #icon {
+         position: relative;
+         left: 24vh;
+     }
+
+     .textsearching {
+         position: relative;
+         left: 16vh;
+     }
+
+     .nametext {
+         position: relative;
+         left: 10vh;
+     }
+ }
